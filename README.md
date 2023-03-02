@@ -107,3 +107,14 @@ Busque una empresa que le brinde acceso a las investigaciones más recientes, en
 - Soluciones reales
 
 Un programa de inteligencia de ciberamenazas ayudará a su empresa a identificar los ataques y a mitigar los riesgos. El programa debe ser integral; es decir, no sirve un programa que solo identifica los posibles problemas, pero no ofrece ninguna solución.
+
+
+**Inteligencia de amenazas en la Dark & Deep Web**
+
+La inteligencia de amenazas en la dark y deep web se refiere al monitoreo y análisis de la información que circula en estos lugares de la Internet que no son accesibles a través de los motores de búsqueda convencionales. Estos lugares son conocidos por albergar actividades ilícitas, como la venta de drogas, armas, información de tarjetas de crédito robadas, entre otras cosas. Por lo tanto, es fundamental que las empresas y organizaciones tengan una estrategia de inteligencia de amenazas en la dark y deep web para detectar cualquier amenaza potencial.
+
+El objetivo de la inteligencia de amenazas en la dark y deep web es identificar posibles amenazas de seguridad y anticipar incidentes de seguridad que puedan afectar a una organización. Esto se logra a través del monitoreo de los foros de discusión en la dark y deep web, la recopilación de información sobre el tráfico de datos y el análisis de los patrones de actividad en estos lugares.
+
+La inteligencia de amenazas en la dark y deep web también se puede utilizar para identificar la existencia de grupos ciberdelincuentes, la detección de nuevos tipos de malware o virus y la identificación de vulnerabilidades en sistemas y aplicaciones. Además, las empresas pueden utilizar esta inteligencia para detectar el uso indebido de sus marcas o para monitorear la información que se está compartiendo sobre su organización en estos lugares.
+
+Es importante destacar que la inteligencia de amenazas en la dark y deep web requiere una gran cantidad de recursos y experiencia en seguridad cibernética. Por lo tanto, muchas organizaciones optan por trabajar con proveedores de servicios de seguridad cibernética especializados en este tipo de monitoreo y análisis de amenazas.
